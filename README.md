@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Roshan Badola</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **my personal portfolio.**
+- 🔭 I’m currently working on **A windows clone built with react.**
 
-- 🌱 I’m currently learning **Framer Motion.**
+- 🌱 I’m currently learning **Data Analytics.**
 
 - 👨‍💻 All of my projects are available at [https://roshanbadola.netlify.app/](https://roshanbadola.netlify.app/)
 
 - 📝 I recently started writing articles on [https://dev.to/shinikage](https://dev.to/shinikage)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, Node.js, Typescript**
 
 - 📫 How to reach me **roshanbadola06@gmail.com**
 
